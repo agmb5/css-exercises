@@ -1,0 +1,21 @@
+p {
+    background-color: rgb(243, 156, 169);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#figaro {
+    font-size: 36px;
+    color: rgb(7, 7, 252);
+}
+
+.figaro-figaro {
+    background-color: rgb(243, 156, 169);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size: 24px;
+}
+
+#factotum {
+    background-color: rgb(138, 229, 138);
+    font-size: 24px;
+    font-weight: bold;
+}
