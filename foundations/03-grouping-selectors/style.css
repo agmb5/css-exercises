@@ -1,0 +1,14 @@
+.alfa {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.beta {
+    background-color: yellow;
+}
+
+.alfa, .beta {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif ;
+}
