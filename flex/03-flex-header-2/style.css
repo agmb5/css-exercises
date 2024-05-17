@@ -12,6 +12,26 @@ body {
   background: white;
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
+
+  display: flex;
+  justify-content:space-between ;
+}
+
+.links {
+  display: flex;
+  gap: 15px;
+}
+
+.miao {
+  display: flex;
+  padding-left:10px;
+}
+
+.bau {
+  display: flex;
+  padding-right: 10px;
+  gap: 15px;
+  align-items: center;
 }
 
 .profile-image {
